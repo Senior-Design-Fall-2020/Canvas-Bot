@@ -1,2 +1,2 @@
 # Canvas-Bot
-Integrating Canvas LMS API features through a Discord bot interface to allow more accessibility for commonly used software.
+Integrating Canvas LMS API features through a Discord bot interface to allow more accessibility for commonly used software. This will be the final rendition of our Senior Design prototype for Fall 2020 at TAMUK and will not include all of our trial runs, test code, etc... on this repository. If you wish to view our journey for this project, check out this repository for more information: https://github.com/Nick-prog/SeniorDesignBot
